@@ -9,6 +9,6 @@
  
  
  #### Problems In this
-  - [ ] Present Numbers are deleting after clicking new number/operation but they are stored in memory i.e; not displaying total equation.
- (If any one out please help me out to find solution for this) 
+  - [ ] Present Numbers are deleting after clicking new number/operation but they are stored in memory i.e; not displaying total equation.<br>
+(If any one out there please help me out to find a solution for this) 
  
